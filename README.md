@@ -1,6 +1,6 @@
 # Hi, I'm Teodor
 
-I'm a Security Researcher at Bitdefender with a background in cybersecurity, computer science, and data analysis.
+I'm a Security Researcher at Bitdefender.
 
 ## Experience
 
