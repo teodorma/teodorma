@@ -12,7 +12,7 @@ Samsung
 
 ## Education
 
-* Master's degree candidate in **Advanced Cybersecurity** at the **National University of Science and Technology POLITEHNICA Bucharest**
+* Master's degree in **Advanced Cybersecurity** at the **National University of Science and Technology POLITEHNICA Bucharest**
 * Bachelor's degree in **Computer Science** from the **Faculty of Mathematics and Computer Science, University of Bucharest**
 
 ## Contact
